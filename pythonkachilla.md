@@ -3,3 +3,4 @@
 ## We are learning python
 ## Phthon is intermediate language
 ## Python is very easy language
+## Python for everyone
